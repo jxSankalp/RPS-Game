@@ -108,7 +108,22 @@ img {
     display: none;
     font-size: 60px;
     grid-row: 6/7;
-    grid-column: 7/10;
+    grid-column: 6/10;
     margin-left: 65px;
 }
 
+.button{
+    grid-row: 7/8;
+    grid-column: 7/10;
+    max-width: 100px;
+    max-height: 50px;
+    margin-left: 21px;
+    border-radius: 10px;
+    background-color: rgb(115, 114, 114);
+}
+
+.oppoimage{
+    grid-row: 4/5;
+    grid-column: 11/12;
+    margin-left: 20px;
+} 
